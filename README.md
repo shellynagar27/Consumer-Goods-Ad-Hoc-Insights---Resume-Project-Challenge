@@ -73,7 +73,7 @@
   * __(Video Presentation)[]__
 
 ## Insights
-  * (PPT)[]
+  * (PPT)[https://github.com/shellynagar27/Consumer-Goods-Ad-Hoc-Insights---Resume-Project-Challenge/blob/main/Consumer%20Goods%20-2%20PPT.pdf]
 
 ## Tools Used:
   1. MySQL
